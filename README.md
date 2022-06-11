@@ -1,12 +1,13 @@
-
-![](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js)
-![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript)
-![](https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js)
-![](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql)
-![](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React)
+<div align=center>
+  <img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java"/>
+  <img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python"/>
+  <img src="https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js"/>
+  <img src="https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql"/>
+  <img src="https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker"/>
+</div>
 
 ## Hi，我是玄铁重剑
 

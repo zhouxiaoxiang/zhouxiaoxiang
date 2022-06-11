@@ -9,17 +9,16 @@
   <img src="https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker"/>
 </div>
 
-## Hi，我是玄铁重剑
+<div align="center">Hi，我是玄铁重剑</div>
 
-- 📫 联系: [email](mailto:xiaoxiang_cn@qq.com)
-- 🎣 爱好： 天文地理、琴棋书画
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=zhouxiaoxiang&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+<br/>
 
 <div align="center">
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=zhouxiaoxiang&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhouxiaoxiang&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 <br/>
+- 📫 联系: [email](mailto:xiaoxiang_cn@qq.com)
+- 🎣 爱好： 天文地理、琴棋书画
 
-<div align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=zhouxiaoxiang&theme=dracula)](https://github.com/zhouxiaoxiang/github-readme-activity-graph" />
-</div>

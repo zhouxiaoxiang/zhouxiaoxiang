@@ -8,7 +8,6 @@
 - 🎣 爱好： 天文地理、琴棋书画
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=zhouxiaoxiang&show_icons=true&theme=dark&count_private=true)
-<hr/>
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=zhouxiaoxiang&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/zhouxiaoxiang/github-readme-stats)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouxiaoxiang&theme=dark&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhouxiaoxiang&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)](https://github.com/zhouxiaoxiang/github-readme-stats)

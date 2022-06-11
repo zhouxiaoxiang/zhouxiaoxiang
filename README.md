@@ -1,7 +1,6 @@
 
 
-### <img src="[
-](https://github.com/zhouxiaoxiang/zhouxiaoxiang.github.com/blob/master/mp3/run.mp4)">
+### <img src="[](https://github.com/zhouxiaoxiang/zhouxiaoxiang.github.com/blob/master/mp3/run.mp4)">
 
 - 👨‍💻 技术: java、python、golang、vue、react、……、∞
 - 📫 联系: [email](mailto:xiaoxiang_cn@qq.com)

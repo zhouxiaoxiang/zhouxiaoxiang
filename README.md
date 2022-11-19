@@ -1,4 +1,4 @@
-<div align="center">Hi，我是玄铁重剑</div>
+<div align="center">朕乃玄铁重剑</div>
 <div align=center>
   <img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java"/>
   <img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python"/>

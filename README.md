@@ -10,11 +10,10 @@
 </div>
 <hr/>
 <div align="center">
-  <img  src="https://github-profile-trophy.vercel.app/?username=zhouxiaoxiang&theme=gruvbox&row=1&column=6&no-frame=true&no-bg=true" /></div>
+  <img  src="https://github-profile-trophy.vercel.app/?username=zhouxiaoxiang&theme=gruvbox&row=1&column=5&no-frame=true&no-bg=true" />
+</div>
 <br/>
-
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?count_private=true&username=zhouxiaoxiang&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?count_private=true&username=zhouxiaoxiang&hide_title=true&hide_border=true&hide=html&show_icons=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&langs_count=10" />
 </div>
-

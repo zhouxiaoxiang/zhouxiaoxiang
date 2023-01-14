@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript"/>
   <img src="https://img.shields.io/badge/-Nodejs-c0ebd?style=flat-square&logo=Node.js"/>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql"/>
-  <img src="https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker"/>
+  <img src="https://img.shields.io/badge/kubernetes-k8s-green"/>
 </div>
 <hr/>
 <div align="center">
